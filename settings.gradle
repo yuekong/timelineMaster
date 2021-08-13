@@ -1,0 +1,2 @@
+rootProject.name = "timelineMaster"
+include ':app', ':library-scalebar'
